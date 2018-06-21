@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="config-client" />
         <module name="eureka-server" />
+        <module name="eureka-server2" />
         <module name="eurekaclient" />
         <module name="eurekaclient2" />
         <module name="eurekafeign" />
@@ -15,6 +16,7 @@
         <module name="eurekazuul" />
         <module name="servcie-config" />
         <module name="service-hi" />
+        <module name="service-hi2" />
         <module name="service-miya" />
         <module name="service-zipkin" />
         <module name="SpringCloudDemo" />
